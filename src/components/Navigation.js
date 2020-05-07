@@ -12,7 +12,7 @@ export class Navigation extends Component {
                 >
                     <Navbar.Brand>
                         <Navbar.Item href="/">
-                            <Heading>MacWhisper</Heading>
+                            <Heading>MacWhisper.</Heading>
                         </Navbar.Item>
                     </Navbar.Brand>
                 </Navbar>
